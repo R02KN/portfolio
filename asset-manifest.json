@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ea5c1a7d.css",
-    "main.js": "/portfolio/static/js/main.4128dd79.js",
+    "main.css": "/portfolio/static/css/main.eede86fa.css",
+    "main.js": "/portfolio/static/js/main.e17daf29.js",
     "static/js/787.202b8111.chunk.js": "/portfolio/static/js/787.202b8111.chunk.js",
     "static/media/Banner.mp4": "/portfolio/static/media/Banner.4ffd649a1feee5968123.mp4",
     "static/media/Elektro.png": "/portfolio/static/media/Elektro.5ad58eb134d82a84fb1c.png",
@@ -9,16 +9,17 @@
     "static/media/Projet_Photoshop (copie).png": "/portfolio/static/media/Projet_Photoshop (copie).5c6d2d687c37b74666ab.png",
     "static/media/MinecraftNight.png": "/portfolio/static/media/MinecraftNight.228958e1818b876deba0.png",
     "static/media/CV_Creatif.png": "/portfolio/static/media/CV_Creatif.b9cda0d9fb0c55603a3a.png",
+    "static/media/Loading.mp4": "/portfolio/static/media/Loading.4793b7dda539ad01fdd0.mp4",
     "static/media/Unicorns.png": "/portfolio/static/media/Unicorns.6d5424e26e1e5cf96621.png",
     "static/media/CV_basique.pdf": "/portfolio/static/media/CV_basique.5fb1eac96f3d0d4b48aa.pdf",
     "static/media/Rea3.jpg": "/portfolio/static/media/Rea3.e6f9483d2ef507c2df35.jpg",
     "index.html": "/portfolio/index.html",
-    "main.ea5c1a7d.css.map": "/portfolio/static/css/main.ea5c1a7d.css.map",
-    "main.4128dd79.js.map": "/portfolio/static/js/main.4128dd79.js.map",
+    "main.eede86fa.css.map": "/portfolio/static/css/main.eede86fa.css.map",
+    "main.e17daf29.js.map": "/portfolio/static/js/main.e17daf29.js.map",
     "787.202b8111.chunk.js.map": "/portfolio/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5c1a7d.css",
-    "static/js/main.4128dd79.js"
+    "static/css/main.eede86fa.css",
+    "static/js/main.e17daf29.js"
   ]
 }
